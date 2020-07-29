@@ -4,15 +4,16 @@ import logoPng from '../../assets/logo.png';
 
 import './styles.css';
 import { Button } from '../Button/styles';
+import { Link } from 'react-router-dom';
 
-function Menu () {
+function Menu() {
     return (
         <nav className="menu">
-            <a href="/">
+            <Link to="/">
                 <img className="logo" src={logoPng} alt="Bubbleflix"/>
-            </a>
+            </Link>
 
-            <Button className="buttonLink">
+            <Button as={Link} className="buttonLink" to="/cadastro/video">
                 Novo Vídeo
             </Button>
         </nav>

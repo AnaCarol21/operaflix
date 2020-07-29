@@ -1,0 +1,177 @@
+{
+    "categorias": [
+      {
+        "titulo": "Período Barroco",
+        "link": "/",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Música nos anos de 1580 à 1630",
+          "url": "/"
+        },
+        "videos": [
+          {
+            "titulo": "Bach - Concerto for two violins in D minor BWV 1043 - Sato and Deans | Netherlands Bach Society",
+            "url": "https://www.youtube.com/watch?v=ILKJcsET-NM"
+          },
+          {
+            "titulo": "Vivaldi Violin Concerto in E minor, RV281 | Fabio Biondi Europa Galante",
+            "url": "https://www.youtube.com/watch?v=nheev87nOHw"
+          },
+          {
+            "titulo": "Handel - Sarabande",
+            "url": "https://www.youtube.com/watch?v=JSAd3NpDi6Q"
+          },
+          {
+            "titulo": "Handel: As steals the morn (L'Allegro, HWV 55) Amanda Forsythe and Thomas Cooley",
+            "url": "https://www.youtube.com/watch?v=PVCtCxnJyKY"
+          },        
+          {
+            "titulo": "Bach - Concert for Violin a-minor - Julia Fischer - Baltic Sea Youth Philharmonic",
+            "url": "https://www.youtube.com/watch?v=sDyDHvZKl8g"
+          },
+          {
+            "titulo": "Handel - Concerto Grosso Op. 6. No. 11",
+            "url": "https://www.youtube.com/watch?v=Kb-cdihQecE"
+          },
+          {
+            "titulo": "Vivaldi - Violin Concerto in A Minor RV356",
+            "url": "https://www.youtube.com/watch?v=QPba-i26YNA"
+          }
+        ]
+      },
+      {
+        "titulo": "Periodo Clássico",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Música nos anos de 1740 à 1800",
+          "url": "/"
+        },
+        "videos": [
+           
+          {
+            "titulo": "Mozart - Lacrimosa",
+            "url": "https://www.youtube.com/watch?v=k1-TrAvp_xs"
+          },
+          {
+            "titulo": "G. B. Sammartini - Symphony in F (JC 37)",
+            "url": "https://www.youtube.com/watch?v=a4AWRL-vryQ"
+          },
+          {
+            "titulo": "Haydn: 1. Cellokonzert C-Dur ∙ hr-Sinfonieorchester",
+            "url": "https://www.youtube.com/watch?v=JGBZIfaxfrM"
+          },
+          {
+            "titulo": "Haydn Symphony no. 45 Farewell Symphony",
+            "url": "https://www.youtube.com/watch?v=OpD9ofCm6Ak"
+          }
+        ]
+      },
+      {
+        "titulo": "Romantismo",
+        "cor": "#9cd33b",
+        "link_extra": {
+          "text": "Música nos anos de 1802 à 1912",
+          "url": "/"
+        },
+        "videos": [
+          {
+            "titulo": "Beethoven - Für Elise | Piano & Orchestra",
+            "url": "https://www.youtube.com/watch?v=e4d0LOuP4Uw"
+          },
+          {
+            "titulo": "Chopin - Nocturne op.9 No.2",
+            "url": "https://www.youtube.com/watch?v=9E6b3swbnWg"
+          },
+          {
+            "titulo": "Schubert, Trio No. 2, Op. 100, Andante con moto",
+            "url": "https://www.youtube.com/watch?v=nioKJNp8ADE"
+          },
+          {
+            "titulo": "Chopin - Spring Waltz",
+            "url": "https://www.youtube.com/watch?v=EFJ7kDva7JE"
+          }
+        ]
+      },{
+        "titulo": "Música moderna contemporânea",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "Zé Ramalho - Entre a Serpente e a Estrela",
+            "url": "https://www.youtube.com/watch?v=tuyvqVTThMg"
+          },
+          {
+            "titulo": "Alceu Valenca - Anunciação",
+            "url": "https://www.youtube.com/watch?v=OR74idpsweg"
+          },
+          {
+            "titulo": "ANAVITÓRIA, Vitor Kley - Pupila",
+            "url": "https://www.youtube.com/watch?v=9Sk7RQtSl5g"
+          },
+          {
+            "titulo": "Luiz Gonzaga - Asa Branca",
+            "url": "https://www.youtube.com/watch?v=zsFSHg2hxbc"
+          }
+        ]
+      },
+      {
+        "titulo": "Games",
+        "cor": "red",
+        "link_extra": {
+          "text": "Formação de Jogos na Alura",
+          "url": "https://www.alura.com.br/formacao-jogos-unity"
+        },
+        "videos": [
+          {
+            "titulo": "Final Fantasy 7",
+            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          },
+          {
+            "titulo": "Assassins Creed Valhalla",
+            "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          },
+          {
+            "titulo": "God of War 4",
+            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          },
+          {
+            "titulo": "Resident Evil 8",
+            "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          },
+          {
+            "titulo": "Pokémon Let's Go Pikachu/Eevee",
+            "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          }
+        ]
+      },
+      {
+        "titulo": "Aprendendo a aprender tecnologia",
+        "cor": "#6b5be2",
+        "link_extra": {
+          "text": "Curso sobre aprendizado na Alura",
+          "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        },
+        "videos": [
+          {
+            "titulo": "Como estudar melhor?",
+            "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          },
+          {
+            "titulo": "Faculdade",
+            "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          },
+          {
+            "titulo": "Frameworks",
+            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          },
+          {
+            "titulo": "A mágica do Aprendizado",
+            "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          },
+          {
+            "titulo": "Como aprender a programar?",
+            "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          }
+        ]
+      }
+    ]
+  }

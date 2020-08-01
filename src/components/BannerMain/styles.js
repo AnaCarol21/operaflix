@@ -93,6 +93,7 @@ export const BannerMainContainer = styled.section`
     bottom: 0;
     background: linear-gradient(0deg, #141414 0%, transparent 100%);
   }
+  
 `;
 
 export const WatchButton = styled.button`

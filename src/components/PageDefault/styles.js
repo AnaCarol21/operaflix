@@ -6,4 +6,5 @@ export const Main = styled.main`
     flex: 1;
     padding: 50px 0 5% 5%;
     position: relative;
+    
 `;

@@ -7,7 +7,7 @@ import NotFound from './pages/NotFound';
 import NewVideo from './pages/NewVideo';
 import NewCategory from './pages/NewCategory';
 
-import './index.css';
+import './global.css';
 
 ReactDOM.render(
   <BrowserRouter>

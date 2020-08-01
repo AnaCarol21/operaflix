@@ -21,7 +21,6 @@ function NewCategory() {
           </button>
         </form>
   
-  
         <Link to="/">
           Ir para home
         </Link>
